@@ -10,7 +10,7 @@ export default function Projects() {
 			subtitle="Information Technology"
 		>
 			<p className="text-center text-lg">August 2024</p>
-
+ 
 			<div>
 				<a href="https://dabawander.org" target='_blank' className='cursor-pointer'>
 					<Image
